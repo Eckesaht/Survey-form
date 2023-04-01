@@ -1,0 +1,16 @@
+.form {
+    min-width: 50vw;
+    min-height: 50vh;
+    max-width: 80vw;
+    max-height: 80vh;
+    background-color: aquamarine;
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+}
+
+input, label {
+    display: block;
+    margin: 3% 0 0 5%;
+    max-width: max-content;
+}
